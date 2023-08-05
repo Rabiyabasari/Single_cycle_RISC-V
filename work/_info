@@ -1,0 +1,547 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.1
+valu
+Z0 !s110 1689530515
+!i10b 1
+!s100 CTn7dkZ4XeWnGmIKoRo@]2
+I3YV[216G]I:U:ETGe1jES2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HP/OneDrive/Desktop/RISC-V
+w1689264869
+8C:/Users/HP/OneDrive/Desktop/RISC-V/ALU.v
+FC:/Users/HP/OneDrive/Desktop/RISC-V/ALU.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1689530515.000000
+!s107 C:/Users/HP/OneDrive/Desktop/RISC-V/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/OneDrive/Desktop/RISC-V/ALU.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vALU
+Z7 !s110 1689262601
+!i10b 1
+!s100 OS1jPQ_^T13>?XY:?nL@72
+I6X=^jLm]E0=eiJhJd1R@d1
+R1
+R2
+w1689262237
+8ALU.v
+FALU.v
+L0 37
+R3
+r1
+!s85 0
+31
+Z8 !s108 1689262601.000000
+Z9 !s107 sign_extend.v|data_mem.v|register_file.v|pc_adder.v|instr_mem.v|p_c.v|Main_Decoder.v|ALU_Decoder.v|control_unit_top.v|ALU.v|C:/Users/HP/OneDrive/Desktop/RISC-V/single_cycle_top.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/OneDrive/Desktop/RISC-V/single_cycle_top.v|
+!i113 1
+R5
+R6
+n@a@l@u
+valu_decoder
+Z11 !s110 1689530516
+!i10b 1
+!s100 cmdcamF=6@n6mbP2KS_5Y1
+IA@h0_IiUnb1fUX=W86<?E2
+R1
+R2
+w1689264634
+8C:/Users/HP/OneDrive/Desktop/RISC-V/alu_decoder.v
+FC:/Users/HP/OneDrive/Desktop/RISC-V/alu_decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/HP/OneDrive/Desktop/RISC-V/alu_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/OneDrive/Desktop/RISC-V/alu_decoder.v|
+!i113 1
+R5
+R6
+vALU_Decoder
+R7
+!i10b 1
+!s100 Y`[@Zn22=OzbLONkP6Izl3
+IcUaM_3Q9>]fUYBF=UIdP70
+R1
+R2
+w1689262205
+8ALU_Decoder.v
+FALU_Decoder.v
+Z12 L0 22
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@a@l@u_@decoder
+vControl_Unit_Top
+R7
+!i10b 1
+!s100 Q[?XIPjN?gjnHBgY4?ZWb0
+I=?az@<gN^JZoUS37R8:N_2
+R1
+R2
+w1689262147
+Z13 8control_unit_top.v
+Z14 Fcontrol_unit_top.v
+L0 39
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@control_@unit_@top
+vcontrol_unit_top
+Z15 !s110 1689530482
+!i10b 1
+!s100 7B3[;:hS3k;W^e83j7ME00
+IneGT^2^6U?H^DWf:6UVAa3
+R1
+R2
+w1689263456
+R13
+R14
+L0 4
+R3
+r1
+!s85 0
+31
+Z16 !s108 1689530482.000000
+Z17 !s107 mux.v|sign_extend.v|data_mem.v|register_file.v|pc_adder.v|instr_mem.v|p_c.v|main_decoder.v|alu_decoder.v|control_unit_top.v|ALU.v|C:/Users/HP/OneDrive/Desktop/RISC-V/single_cycle_top.v|
+R10
+!i113 1
+R5
+R6
+vdata_memory
+R15
+!i10b 1
+!s100 B@8SAFD=SNGHlCm?K1ZSY1
+Ildb@@kCee=kc5ki]^Q3b21
+R1
+R2
+w1689264821
+Z18 8data_mem.v
+Z19 Fdata_mem.v
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+R17
+R10
+!i113 1
+R5
+R6
+vData_Memory
+R7
+!i10b 1
+!s100 zUh1J6H?k]2[AnV7OF]Vi3
+I4I]GBTSFORD_?B^LaoiV<0
+R1
+R2
+w1689262409
+R18
+R19
+Z20 L0 30
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@data_@memory
+vinstr_mem
+R11
+!i10b 1
+!s100 5<>?ZOTIoGl43e2J><@R^1
+Im_m_Sg>^73zN?VYz4ZIkZ3
+R1
+R2
+w1689530451
+8C:/Users/HP/OneDrive/Desktop/RISC-V/instr_mem.v
+FC:/Users/HP/OneDrive/Desktop/RISC-V/instr_mem.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z21 !s108 1689530516.000000
+!s107 C:/Users/HP/OneDrive/Desktop/RISC-V/instr_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/OneDrive/Desktop/RISC-V/instr_mem.v|
+!i113 1
+R5
+R6
+vInstruction_Memory
+R7
+!i10b 1
+!s100 L:Jz4UN>:jE7R1V<H5z:G3
+ImXMM3C:V=[AP1DWXiZjNH3
+R1
+R2
+w1689262114
+8instr_mem.v
+Finstr_mem.v
+L0 20
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@instruction_@memory
+vMain_Decoder
+R7
+!i10b 1
+!s100 5STBjGT9UnWHT:OmYd``=3
+IkLNX`zYE:BQoYeGm?oLM40
+R1
+R2
+w1689262181
+8Main_Decoder.v
+FMain_Decoder.v
+R12
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@main_@decoder
+vmain_decoder
+R0
+!i10b 1
+!s100 []C?VgIX3ECE`hMfYmbPM0
+I@IJgZoacIHR1@<g<jTdoM0
+R1
+R2
+w1689263488
+8C:/Users/HP/OneDrive/Desktop/RISC-V/main_decoder.v
+FC:/Users/HP/OneDrive/Desktop/RISC-V/main_decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/HP/OneDrive/Desktop/RISC-V/main_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/OneDrive/Desktop/RISC-V/main_decoder.v|
+!i113 1
+R5
+R6
+vmux
+Z22 !s110 1689530483
+!i10b 1
+!s100 c<ec7WYZiGl9Yz]bS;OWG3
+I2LVB<62F?AE^<PXEOZJOI3
+R1
+R2
+w1689517067
+8C:/Users/HP/OneDrive/Desktop/RISC-V/mux.v
+FC:/Users/HP/OneDrive/Desktop/RISC-V/mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1689530483.000000
+!s107 C:/Users/HP/OneDrive/Desktop/RISC-V/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/OneDrive/Desktop/RISC-V/mux.v|
+!i113 1
+R5
+R6
+vp_c
+R11
+!i10b 1
+!s100 =ShA>X9@MGo7zl1e1;>3M1
+ID41LzVdf;kA?kYPS8PgXd1
+R1
+R2
+w1689264712
+8C:/Users/HP/OneDrive/Desktop/RISC-V/p_c.v
+FC:/Users/HP/OneDrive/Desktop/RISC-V/p_c.v
+L0 1
+R3
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/HP/OneDrive/Desktop/RISC-V/p_c.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/OneDrive/Desktop/RISC-V/p_c.v|
+!i113 1
+R5
+R6
+vPC_Adder
+R7
+!i10b 1
+!s100 ^0R2DP]2=i@Ye9[KJGJ9f1
+I>4mY<QfbMjFbIMQDGI7;81
+R1
+R2
+w1689262327
+Z23 8pc_adder.v
+Z24 Fpc_adder.v
+L0 10
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@p@c_@adder
+vpc_adder
+R15
+!i10b 1
+!s100 BaDiQ[6eRWDic5^cHKSmg2
+ITJlDSdXPh`FQOA?Smb<Td1
+R1
+R2
+w1689264730
+R23
+R24
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+R17
+R10
+!i113 1
+R5
+R6
+vPC_Module
+R7
+!i10b 1
+!s100 A@DLbkI[1?1BV>XXT=nj@1
+ISW0k2WhcV7@jJ^F@3c6e70
+R1
+R2
+w1689262078
+8p_c.v
+Fp_c.v
+L0 26
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@p@c_@module
+vreg_file
+R15
+!i10b 1
+!s100 QYMM@RKKE8<4dU0G>mMML3
+IP]0<8kn7dVZBOWQHJPHiP2
+R1
+R2
+w1689530475
+Z25 8register_file.v
+Z26 Fregister_file.v
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+R17
+R10
+!i113 1
+R5
+R6
+vRegister_File
+R7
+!i10b 1
+!s100 7NR]NA]468?790DYcTY4V2
+IblX75E[d0i_UDko20>;mm2
+R1
+R2
+w1689262291
+R25
+R26
+L0 31
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@register_@file
+vsign_extend
+R15
+!i10b 1
+!s100 8O2XJEUoB_m2nNh1jM0?c0
+I>C9`6@hKDoMCEkbkRiaFm1
+R1
+R2
+w1689513846
+Z27 8sign_extend.v
+Z28 Fsign_extend.v
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+R17
+R10
+!i113 1
+R5
+R6
+vSign_Extend
+R7
+!i10b 1
+!s100 ]AB4INjOUW[d7;9KHY7DX3
+ILi5mj3U5B?TD=ZZJYYT=Y3
+R1
+R2
+w1689262361
+R27
+R28
+Z29 L0 11
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@sign_@extend
+vsingle_cycle_top
+R15
+!i10b 1
+!s100 >Hb7hA<?2nElbn^Bi;PA^3
+I4cHHfHNlE_HfzDiYjTImR3
+R1
+R2
+w1689530268
+Z30 8C:/Users/HP/OneDrive/Desktop/RISC-V/single_cycle_top.v
+Z31 FC:/Users/HP/OneDrive/Desktop/RISC-V/single_cycle_top.v
+R29
+R3
+r1
+!s85 0
+31
+R16
+R17
+R10
+!i113 1
+R5
+R6
+vSingle_Cycle_Top
+R7
+!i10b 1
+!s100 lJ7AYbU?3R]^nQaLm?_;?3
+IOCL_f3hdfFLlKRH^okKz_0
+R1
+R2
+w1689262590
+R30
+R31
+L0 40
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R5
+R6
+n@single_@cycle_@top
+vSingle_Cycle_Top_Tb
+!s110 1689262602
+!i10b 1
+!s100 ;U>A=2bJ=Lo<JS18igO2d2
+I]5M_5@RbD725TcnIobK500
+R1
+R2
+w1689262510
+Z32 8C:/Users/HP/OneDrive/Desktop/RISC-V/single_cycle_top_tb.v
+Z33 FC:/Users/HP/OneDrive/Desktop/RISC-V/single_cycle_top_tb.v
+R20
+R3
+r1
+!s85 0
+31
+R8
+Z34 !s107 C:/Users/HP/OneDrive/Desktop/RISC-V/single_cycle_top_tb.v|
+Z35 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/OneDrive/Desktop/RISC-V/single_cycle_top_tb.v|
+!i113 1
+R5
+R6
+n@single_@cycle_@top_@tb
+vsingle_cycle_top_tb
+R22
+!i10b 1
+!s100 DdFC_UeFbd[zYJ4EoIN[j0
+I:aPjHNTzzldBM`hV=<Oj[2
+R1
+R2
+w1689530147
+R32
+R33
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+R34
+R35
+!i113 1
+R5
+R6
